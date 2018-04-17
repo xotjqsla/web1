@@ -1,0 +1,15 @@
+body {
+  background-color:#333333;
+  color:white;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: violet;
+}
+p {
+  color: red;
+}
+div p {
+  color: green;
+}
